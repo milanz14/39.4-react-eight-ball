@@ -1,0 +1,15 @@
+.container {
+    display: table;
+    height: 400px;
+    overflow: hidden;
+
+}
+
+.ball {
+    display: table-cell;
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    color: white;
+    vertical-align: middle;
+}
